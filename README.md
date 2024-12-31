@@ -8,7 +8,7 @@ This project is specifically developed for the **Information Technology Departme
 Here are some screenshots of the system's user interface:
 
 1. **Login Page**  
-![Uploading Login - CMS .jpg…]()
+![Login - CMS ](https://github.com/user-attachments/assets/5bcd0561-9ed2-4066-94a7-64bdd8859255)
 
 2. **Dashboard**  
    ![Dashboard](assets/images/dashboard.png)

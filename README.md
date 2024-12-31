@@ -48,5 +48,6 @@ Before you begin, ensure you have the following installed:
 
 ## Team and Development
 This project was developed by the following team members:
-- **Eng. Yazeed Abdullah** and **Eng. Abdulrahman Ayed** - *Backend Developers*: Responsible for developing backend services using **ASP.NET** and **C#**. Special thanks to [@swe-yazeed](https://github.com/swe-yazeed) and [@swe-abdulrahman](https://github.com/swe-abdulrahman) for their contributions.
-- **Eng. Mohammad Saleh** and **Business Administrator Mohammad Ali** - *Frontend Developers*: Responsible for creating user interfaces using **HTML**, **CSS**, and **JavaScript**, as well as designing the user experience (**UI/UX**) with **Figma**. Special thanks to [@swe-mohammad](https://github.com/swe-mohammad) and [@mohammad-business](https://github.com/mohammad-business) for their efforts.
+- [Eng. Yazeed](https://github.com/swe-yazeed) and [Eng. Abdulrahman Ayed] (https://github.com/AbdularhmanA) - *Backend Developers*: Responsible for developing backend services using **ASP.NET** and **C#**.
+  
+- [Eng. Mohammad Saleh](https://github.com/Mohammeds8) and **Business Administrator Mohammad Ali** - *Frontend Developers*: Responsible for creating user interfaces using **HTML**, **CSS**, and **JavaScript**, as well as designing the user experience (**UI/UX**) with **Figma**.

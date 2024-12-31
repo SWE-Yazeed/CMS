@@ -8,7 +8,7 @@ This project is specifically developed for the **Information Technology Departme
 Here are some screenshots of the system's user interface:
 
 1. **Login Page**  
-![Login - CMS ](https://github.com/user-attachments/assets/5bcd0561-9ed2-4066-94a7-64bdd8859255)
+<img src="https://github.com/user-attachments/assets/5bcd0561-9ed2-4066-94a7-64bdd8859255" alt="Login - CMS" width="500"/>
 
 2. **Dashboard**  
    ![Dashboard](assets/images/dashboard.png)
@@ -38,26 +38,8 @@ Before you begin, ensure you have the following installed:
 - [SQL Server Database](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 - Operating system: Windows, Linux, or macOS ([macOS Guide](https://www.apple.com/macos/))
 
-## Installation
-
-To get started with this project, follow these steps:
-
-### 1. Clone the repository:
-```bash
-git clone https://github.com/username/repository.git
-cd repository
-## 2. Install dependencies:
-After cloning the project, open it in Visual Studio and install the necessary dependencies via **NuGet Package Manager**.
-## Usage
-### 1. Run the application:
-After installation, you can run the system from Visual Studio by clicking the **Run** button or using the following command in the terminal:
-```bash
-dotnet run
-
-## 2. Access the system:
-Open your browser and visit the following URL: [http://localhost:5000](http://localhost:5000)
-
 ## Features
+
 - **Create Transactions**: The system allows users to quickly and securely create transactions.
 - **Exchange Transactions**: Users can exchange transactions smoothly within the system.
 - **Track Transactions**: Users can track the status of transactions in real-time.

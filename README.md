@@ -8,16 +8,17 @@ This project is specifically developed for the **Information Technology Departme
 Here are some screenshots of the system's user interface:
 
 1. **Login Page**  
-<img src="https://github.com/user-attachments/assets/5bcd0561-9ed2-4066-94a7-64bdd8859255" alt="Login - CMS" width="500"/>
+<img src="https://github.com/user-attachments/assets/5bcd0561-9ed2-4066-94a7-64bdd8859255" alt="Login - CMS" width="500" height="300"/>
 
 2. **Dashboard**  
-   ![Dashboard](assets/images/dashboard.png)
+ <img src="https://github.com/user-attachments/assets/3008f7fc-ee94-45da-9c6f-a84c9a2d40b2" alt="Dashboard - CMS (2)" width="500" height="300"/>
 
 3. **Transaction Creation Page**  
-   ![Create Transaction](assets/images/create-transaction.png)
+<img src="https://github.com/user-attachments/assets/a8ea0089-d8a4-422c-9abc-54526d29e705" alt="إنشاء معاملات" width="500" height="300"/>
 
-4. **Track Transactions**  
-   ![Track Transactions](assets/images/track-transactions.png)
+4. **Transactions Details**  
+<img src="https://github.com/user-attachments/assets/3de077f1-3ac8-4466-9124-6479e352e6ce" alt="تفاصيل المعاملة" width="500" height="300"/>
+
 
 ## Technologies Used
 
@@ -33,17 +34,16 @@ The system is built using a variety of modern technologies to provide a seamless
 
 Before you begin, ensure you have the following installed:
 
-- [ASP.NET Core 5.0 or later](https://dotnet.microsoft.com/download/dotnet)
-- [Visual Studio 2019 or later](https://visualstudio.microsoft.com/)
+- [ASP.NET Core 8.0 or newer](https://dotnet.microsoft.com/download/dotnet)
+- [Visual Studio 2019 or newer](https://visualstudio.microsoft.com/)
 - [SQL Server Database](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-- Operating system: Windows, Linux, or macOS ([macOS Guide](https://www.apple.com/macos/))
-
+- Operating system: Windows, Linux, or macOS
+- 
 ## Features
 
 - **Create Transactions**: The system allows users to quickly and securely create transactions.
 - **Exchange Transactions**: Users can exchange transactions smoothly within the system.
 - **Track Transactions**: Users can track the status of transactions in real-time.
-- **Permission Management**: The system provides role-based access control and permission management for different users.
 - **Easy-to-use Interface**: The user interface was designed using **Figma**, ensuring a user-friendly experience.
 
 ## Team and Development

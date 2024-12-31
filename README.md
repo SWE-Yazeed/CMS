@@ -48,6 +48,6 @@ Before you begin, ensure you have the following installed:
 
 ## Team and Development
 This project was developed by the following team members:
-- [Eng. Yazeed](https://github.com/swe-yazeed) and [Eng. Abdulrahman Ayed] (https://github.com/AbdularhmanA) - *Backend Developers*: Responsible for developing backend services using **ASP.NET** and **C#**.
+- [Eng. Yazeed Abdullah](https://github.com/swe-yazeed) and [Eng. Abdularhman Ayed](https://github.com/AbdularhmanA) - *Backend Developers*: Responsible for developing backend services using **ASP.NET** and **C#**.
   
-- [Eng. Mohammad Saleh](https://github.com/Mohammeds8) and **Business Administrator Mohammad Ali** - *Frontend Developers*: Responsible for creating user interfaces using **HTML**, **CSS**, and **JavaScript**, as well as designing the user experience (**UI/UX**) with **Figma**.
+- [Eng. Mohammed Saleh](https://github.com/Mohammeds8) and **Business Administrator Mohammad Ali** - *Frontend Developers*: Responsible for creating user interfaces using **HTML**, **CSS**, and **JavaScript**, as well as designing the user experience (**UI/UX**) with **Figma**.

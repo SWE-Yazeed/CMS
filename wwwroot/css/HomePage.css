@@ -1,0 +1,170 @@
+﻿body {
+    background-image: url('../images/فيقما 1.png') !important;
+    direction: rtl;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh; /* تغطية كامل الشاشة */
+    width: 100vw; /* تغطية العرض بالكامل */
+    overflow: hidden; /* منع التمرير */
+    position: fixed; /* تثبيت الصفحة بحيث لا تتحرك */
+}
+
+html {
+    height: 100%;
+    width: 100%;
+    overflow: hidden; /* منع التمرير */
+}
+
+/* تعديل شريط التنقل حق شعار الامانه */
+.navbar .header-container img {
+    position: absolute;
+    top: 10px; /* تحديد المسافة من الأعلى */
+    right: 10px; /* تحديد المسافة من اليمين */
+    width: 30%; /* حجم الصورة */
+    height: auto;
+}
+
+/* تعديل صورة رؤية 2030 */
+/* تعديل صورة رؤية 2030 لتكون في الزاوية اليسرى العليا للصفحة الرئيسية */
+.vision-2030 {
+    position: fixed; /* يجعل الصورة ثابتة في مكانها على الشاشة */
+    top: 0px; /* المسافة من الأعلى */
+    left: 10px; /* المسافة من اليسار */
+    width: 12%; /* حجم الصورة */
+    height: auto; /* الحفاظ على النسبة الأصلية */
+    z-index: 1000; /* التأكد من ظهور الصورة فوق العناصر الأخرى */
+}
+/* تعديل صورة الوزاره */
+.vision-2020 {
+    position: fixed; /* يجعل الصورة ثابتة في مكانها على الشاشة */
+    top: 0px; /* المسافة من الأعلى */
+    left: 14%; /* المسافة من اليسار */
+    width: 8%; /* حجم الصورة */
+    height: auto; /* الحفاظ على النسبة الأصلية */
+    z-index: 1000; /* التأكد من ظهور الصورة فوق العناصر الأخرى */
+}
+
+
+
+
+
+/* الحاوية الرئيسية بتصميم بسيط */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap'); /* استيراد خط حديث */
+
+/* الحاوية الرئيسية بدون إطار خلفي */
+#transactions-menu {
+    position: absolute;
+    top: 28%;
+    right: 60px;
+    width: 360px;
+    height: auto;
+    padding: 0; /* إزالة padding الإضافي */
+    font-family: 'Nunito', sans-serif; /* خط عصري */
+    
+}
+
+    /* الزر الرئيسي */
+    #transactions-menu .btn {
+        width: 100%;
+        padding: 15px;
+        background-color: #145350; /* لون */
+        color: #fff;
+        font-size: 18px;
+        font-weight: 700;
+        border: none;
+        border-radius: 10px;
+        text-align: center;
+        cursor: pointer;
+        transition: background-color 0.3s ease, transform 0.2s ease;
+    }
+
+        #transactions-menu .btn:hover {
+            background-color: #196F6A;
+            transform: translateY(-2px);
+        }
+
+    /* القائمة المنسدلة */
+    #transactions-menu .dropdown-menu {
+        margin-top: 10px;
+        width: 100%;
+        background-color: #196F6A; /* خلفية رمادية ناعمة */
+        border-radius: 10px;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+        padding: 15px 0;
+        text-align: right; /* النص يبدأ من اليمين */
+    }
+
+    /* عناصر القائمة */
+    #transactions-menu .dropdown-item {
+        padding: 15px 20px;
+        font-size: 16px;
+        font-weight: 600;
+        color:#fff;
+       display: flex;
+        justify-content: flex-start; /* جعل العناصر تمتد بشكل متناسق */
+        align-items: center;
+        direction: rtl; /* اتجاه النص من اليمين إلى اليسار */
+        transition: background-color 0.3s ease;
+    }
+
+        #transactions-menu .dropdown-item:hover {
+            background-color: rgba(211, 211, 211, 0.5); /* لون رمادي فاتح شفاف بنسبة 50% */
+        }
+
+        /* استبدال الأيقونة بعلامة شرطة */
+        #transactions-menu .dropdown-item::before {
+            content: "-"; /* علامة شرطة */
+            font-size: 20px;
+            color: #fff;
+            margin-left: 10px; /* مسافة بين الشرطة والنص */
+        }
+
+
+
+/* استيراد Font Awesome للأيقونات */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css');
+
+
+
+
+
+
+
+/* الحاوية التي تحتوي على الشرائح */
+.slideshow-container {
+    position: absolute;
+    top: 370%;
+    left: -33%;
+    width: 105%;
+    z-index: 999;
+    /* إضافة حواف متقوسة */
+    border-radius: 25px; /* يمكنك ضبط هذه القيمة لتحديد مدى التقوس */
+    /* ضمان أن الصور داخل الحاوية لن تغير الأحجام */
+    overflow: hidden; /* منع خروج المحتوى من حدود الحاوية المتقوسة */
+    
+}
+
+
+
+/* الصورة 1 */
+.slide1 img {
+    width: 80%; /* يمكنك ضبط النسبة المئوية أو استخدام وحدات مثل px */
+    height: auto; /* الحفاظ على نسبة الأبعاد الأصلية */
+    border-radius: 25px;    
+}
+
+/* الصورة 2 */
+.slide2 img {
+    width: 80%; /* حجم مخصص للصورة الثانية */
+    height: auto;
+    border-radius: 25px;  
+}
+
+/* الصورة 3 */
+.slide3 img {
+    width: 80%; /* حجم مخصص للصورة الثالثة */
+    height: auto;
+    border-radius: 25px;
+}
+

@@ -1,7 +1,7 @@
 # Correspondence Management System (CMS)
 The **Correspondence Management System (CMS)** is an innovative platform that allows the creation, exchange, and tracking of transactions between users in an easy and secure way. The system enables users to create, receive, and track transactions efficiently, making it easier to manage operations related to transactions within organizations.
 
-This project is specifically developed for the **Information Technology Department at the Municipality of Hail**, and it was built by a group of software engineering and business management students from **Hail University** during their cooperative training at the **Application Office, Information Technology Department** at the Municipality of Hail.
+This project is specifically developed for the **IT Department at the Municipality of Hail**, and it was built by a group of software engineering and business management students from **University of Hail** during their cooperative training at the **Applications Department, Information Technology Department** at the Municipality of Hail.
 
 ## Screenshots
 
@@ -48,6 +48,6 @@ Before you begin, ensure you have the following installed:
 
 ## Team and Development
 This project was developed by the following team members:
-- [Eng. Yazeed Abdullah](https://github.com/swe-yazeed) and [Eng. Abdularhman Ayed](https://github.com/AbdularhmanA) - *Backend Developers*: Responsible for developing backend services using **ASP.NET** and **C#**.
+- **[Eng. Yazeed Abdullah](https://github.com/swe-yazeed)** and **[Eng. Abdularhman Ayed](https://github.com/AbdularhmanA)** - **Backend Developers**: Responsible for developing backend services using **ASP.NET** and **C#**.
   
-- [Eng. Mohammed Saleh](https://github.com/Mohammeds8) and **Business Administrator Mohammad Ali** - *Frontend Developers*: Responsible for creating user interfaces using **HTML**, **CSS**, and **JavaScript**, as well as designing the user experience (**UI/UX**) with **Figma**.
+- **[Eng. Mohammed Saleh](https://github.com/Mohammeds8)** and **Business Administrator Mohammad Ali** - **Frontend Developers**: Responsible for creating user interfaces using **HTML**, **CSS**, and **JavaScript**, as well as designing the user experience (**UI/UX**) with **Figma**.
